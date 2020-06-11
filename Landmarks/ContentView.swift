@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Landmarks
+//  Mitha Gang
 //
 //  Created by Vibhansh on 09/05/20.
 //  Copyright © 2020 Vibhansh. All rights reserved.
@@ -16,10 +16,10 @@ struct ContentView: View {
                 .frame(height: 300)
             //alt.way -> .offset(y:-25)
             CircleImage()
-                .offset(x:30,y:-130)
+                .offset(x:0,y:-100)
                 .padding(.bottom, -140)
         VStack(alignment: .leading) {
-            Text("Trikuta Hostel")
+            Text("Mitha Gang")
                 .font(.title)
                 .fontWeight(.light)
                 .padding(5.0)
