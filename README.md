@@ -4,7 +4,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-![Mitha Gang](https://i.pinimg.com/originals/31/a3/68/31a368665291945577a1cf9931a0bed8.jpg)
+![Mitha Gang](https://i.pinimg.com/originals/41/29/56/412956778a2fc034389aec841d30ea94.jpg)
 
 ## General info
 Just a basic app that previews a list view of my favorite photos according to the location you choose.
